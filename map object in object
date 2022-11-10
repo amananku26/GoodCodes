@@ -1,0 +1,6 @@
+const marks = mappingGridData.items.map((item) => item.data.children)
+for (let i = 0; i < marks.length; i++) {
+  for (let j in marks[i]) {
+    console.log(marks[i][j].questionName)
+  }
+}
