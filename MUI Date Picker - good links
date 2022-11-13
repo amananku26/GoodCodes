@@ -1,0 +1,29 @@
+I have added these 
+Reason : i was developing a logic where end date should be greater then start date
+with using of YUP, reacthookform and MUI datetimepicker
+so i am getting issue error was not properly coming 
+so to solve this i have gone through these finest article,codesandbox and stackoverflow answer
+
+https://codesandbox.io/s/formik-conditional-val-1ldmx?file=/src/index.js
+https://stackoverflow.com/questions/71675561/how-to-make-end-date-at-most-one-day-after-start-date-in-yup-validation
+https://stackoverflow.com/questions/58810127/how-do-i-validate-if-a-start-date-is-after-an-end-date-with-yup
+https://www.google.com/search?q=yup+start+time+and+end+time&oq=yup+start+time+and+end+time&aqs=chrome..69i57.6593j0j1&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/70343696/yup-validation-if-a-field-is-true-check-the-value-of-another-field-with-switch
+https://stackoverflow.com/questions/67368180/validation-in-yup-react-based-on-the-value-of-checkbox
+https://codesandbox.io/s/react-hook-form-yup-optional-field-forked-xzdw9v?file=/src/index.js:919-940
+https://stackoverflow.com/questions/56484686/how-do-i-avoid-function-components-cannot-be-given-refs-when-using-react-route
+https://stackoverflow.com/questions/70634443/using-the-mui-datepicker-with-yup-and-react-hook-form-the-error-prop-doesnt-w
+https://codesandbox.io/s/datepicker-yup-validation-8rod3?file=/src/App.js:1032-1044
+https://stackoverflow.com/questions/56484686/how-do-i-avoid-function-components-cannot-be-given-refs-when-using-react-route
+https://stackoverflow.com/questions/72842158/material-ui-mui-date-picker-with-react-hook-form
+https://github.com/jquense/yup/issues/764
+https://www.google.com/search?q=if+check+the+fill+value+in+react+hook+form&oq=if+check+the+fill+value+in+react+hook+form&aqs=chrome..69i57.33190j0j1&sourceid=chrome&ie=UTF-8
+https://codesandbox.io/s/react-hook-form-watch-v7-forked-3ueigv?file=/src/index.js:1139-1151
+https://www.google.com/search?q=type%2C+but+the+final+value+was%3A+%60Invalid+Date%60.&oq=type%2C+but+the+final+value+was%3A+%60Invalid+Date%60.&aqs=chrome..69i57.247j0j1&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=DateTimePickerMUI+with+controller&oq=DateTimePickerMUI+with+controller&aqs=chrome..69i57.3272j0j1&sourceid=chrome&ie=UTF-8
+https://codesandbox.io/s/material-demo-forked-8sr3u?fontsize=14&hidenavigation=1&theme=dark&file=/demo.tsx
+https://codesandbox.io/embed/dreamy-smoke-qlfr5?fontsize=14&hidenavigation=1&theme=dark
+https://codesandbox.io/s/react-hook-form-basic-forked-4stdl?file=/src/index.js
+https://stackoverflow.com/questions/73361186/how-to-catch-react-hook-form-validation-error
+https://codesandbox.io/s/react-hook-form-v6-controller-forked-2k6jt?file=/src/AntD.js
+https://stackoverflow.com/questions/65255298/how-to-conditionally-disable-the-submit-button-with-react-hook-form
