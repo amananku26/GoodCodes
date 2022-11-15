@@ -1,0 +1,7 @@
+function get_url_extension( url ) {
+    return url.split(/[#?]/)[0].split('.').pop().trim();
+}
+example:
+get_url_extension('https://example.com/folder/file.jpg');
+get_url_extension('https://example.com/fold.er/fil.e.jpg?param.eter#hash=12.345');
+outputs ------> jpg
