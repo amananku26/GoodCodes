@@ -6,4 +6,5 @@ function sortOrder(getOrder, getArr) {
   });
 }
 
-console.log(sortOrder(['name', "date", 'score', 'status'], ["date"]))
+console.log(sortOrder(['name', "date", 'score', 'status'], ["date",'name']))
+//output --> [ 'name', 'date' ]
